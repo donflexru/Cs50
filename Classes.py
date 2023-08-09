@@ -20,7 +20,7 @@ class Flight():
    def Open_seats(self):
      return self.Capacity-len(self.passengers)
 
-fight=Flight(4)
+fight=Flight(3)
 people=["Harry","Abraham","Jessica","Monday"]
 for person in people:
     success=fight.add_passenger(person)

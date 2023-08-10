@@ -17,5 +17,6 @@ for i in range(9):
 names=["fred","Georgina","mary","kane","randy"]    
 for name in names:
     print(name)
+print("lover")
 
 

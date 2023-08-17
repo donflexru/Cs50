@@ -4,13 +4,13 @@ print(13//7) # flooring  to one significant num
 result=12/6
 result/=2 # dividing the numbers  with it's variables 
 print(result)
-var = 12
+var = 
 var-=3
 var+=var
 print(var)
 
-yrs_as_int=int(input("Enter your  current age please"))
-yrs_rem=120-yrs_as_int
+yrs_as_int=int(input("Enter your  current please"))
+yrs_rem=120yrs_as_int
 days_rem=yrs_rem*365
 weeks_rem=yrs_rem*52
 months_rem=yrs_rem*12
